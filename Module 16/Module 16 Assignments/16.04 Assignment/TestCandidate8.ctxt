@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=void\ printVotes(java.util.List)
+comment1.params=e
+comment1.target=int\ getTotal(java.util.List)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=e
+comment2.target=void\ printResults(java.util.List)
+comment3.params=e\ oldName\ newName
+comment3.target=void\ replaceName(java.util.List,\ java.lang.String,\ java.lang.String)
+comment4.params=e\ name\ newVotes
+comment4.target=void\ replaceVotes(java.util.List,\ java.lang.String,\ int)
+comment5.params=e\ oldName\ newName\ newVotes
+comment5.target=void\ replaceCandidate4(java.util.List,\ java.lang.String,\ java.lang.String,\ int)
+comment6.params=e\ position\ name\ votes
+comment6.target=java.util.List\ insertPosition(java.util.List,\ int,\ java.lang.String,\ int)
+comment7.params=e\ candidate\ name\ votes
+comment7.target=java.util.List\ insertCandidate(java.util.List,\ java.lang.String,\ java.lang.String,\ int)
+comment8.params=e\ candidate
+comment8.target=java.util.List\ deleteByName(java.util.List,\ java.lang.String)
+comment9.params=e\ position
+comment9.target=java.util.List\ deleteByLoc(java.util.List,\ int)
+numComments=11

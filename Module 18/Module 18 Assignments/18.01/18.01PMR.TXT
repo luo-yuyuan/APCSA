@@ -1,0 +1,2 @@
+I had no problems making this progam. Sequential search is a fairly simple topic, and something we have 
+used before in class. I look forward to trying out binary search!

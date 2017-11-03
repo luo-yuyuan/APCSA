@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s1\ s2
+comment0.target=double\ calcTriArea(int,\ int)
+comment1.params=s1\ s2
+comment1.target=double\ calcHypoteneuse(int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

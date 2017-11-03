@@ -1,0 +1,3 @@
+This program gave me some troubles. The biggest problem was not the actual Caesar cypher, but it was my
+in ability to use the correct Scanner methods. The challenge was that some methods return the next line, while
+others do not, and I had to spend a while testing the different methods.

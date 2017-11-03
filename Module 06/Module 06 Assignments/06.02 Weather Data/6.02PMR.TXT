@@ -1,0 +1,4 @@
+I found this program to be good practice with using arrays and with formatting outputs.
+In many past programs I have wanted to format my outputs to be more reasonable, so I am happy I now can do so.
+I did not have any problems with this program.
+I look forward to being able to use these skills in upcoming programs.

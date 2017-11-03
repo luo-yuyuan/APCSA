@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=s1\ s2
+comment0.target=ShapesV8(int,\ int)
+comment1.params=
+comment1.target=void\ calcTriArea()
+comment2.params=
+comment2.target=double\ getTriArea()
+comment3.params=
+comment3.target=void\ calcHypoteneuse()
+comment4.params=
+comment4.target=double\ getHypoteneuse()
+comment5.params=
+comment5.target=int\ getSide1()
+comment6.params=
+comment6.target=int\ getSide2()
+comment7.params=s1
+comment7.target=void\ setSide1(int)
+comment8.params=s2
+comment8.target=void\ setSide2(int)
+numComments=9

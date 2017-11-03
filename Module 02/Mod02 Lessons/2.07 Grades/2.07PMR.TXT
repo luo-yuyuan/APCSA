@@ -1,0 +1,2 @@
+I found this program to be very simple to make and understand. I would not change much of anything about the program, 
+except that it would be nice to use a loop and prompt the user for test scores vs hardcoding.

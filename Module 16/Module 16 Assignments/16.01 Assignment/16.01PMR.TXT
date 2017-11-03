@@ -1,0 +1,2 @@
+I didn't have any problems making this program. This is a concept that we've used a lot in class, 
+but to see it acually categoied as an algorithm is interesting.

@@ -1,0 +1,6 @@
+I found this program to be more challenging than previous programs, but still not overly difficult.
+The one piece that I did find challenging was the total items for souvenir 2. I changed it's data type 
+and added more data conversions because I felt this solution made more sense than using the value as an int,
+to ensure that the proper value is found and then truncated the decimal, as opposed to truncating then calculatting.
+
+I also used: https://www.bankofamerica.com/foreign-exchange/currency-converter.go#131MXN for my conversions.

@@ -1,0 +1,3 @@
+I found this program to be fairly simple to create. The only mistake I made is I made different getMySide functions
+for each triangle class, even though I could just call the method from the original triangle class itself. It's
+not a problem, just less efficient and robust.

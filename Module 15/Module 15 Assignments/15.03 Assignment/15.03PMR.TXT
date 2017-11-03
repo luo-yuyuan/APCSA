@@ -1,0 +1,2 @@
+I had no problems making this program. I think the idea of interfaces is very interesting, and 
+it seems like they are a more logical way to use abstract methods than through an abstract class.

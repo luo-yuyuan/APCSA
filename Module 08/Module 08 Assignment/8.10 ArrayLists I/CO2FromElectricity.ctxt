@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CO2FromElectricity()
+comment0.text=\r\n\ Default\ constructor\ for\ CO2FromElectricity\ objects\r\n
+comment1.params=monthlyBill
+comment1.target=double\ calcAverageBill(java.util.ArrayList)
+comment1.text=\r\n\ This\ method\ calculates\ the\ average\ bill\ for\ n\ number\ of\ months\ worth\ of\ bills\r\n\ \r\n\ @param\ ArrayList<Double>\ monthlyBill\ An\ ArrayList\ of\ bills\ for\ n\ months\r\n\ @return\ The\ average\ monthly\ bill\r\n
+comment2.params=monthlyPrice
+comment2.target=double\ calcAveragePrice(java.util.ArrayList)
+comment2.text=\r\n\ This\ method\ calculates\ the\ average\ price\ per\ month\ for\ n\ number\ of\ months\r\n\ \r\n\ @param\ ArrayList<Double>\ monthlyPrice\ An\ ArrayList\ with\ prices\ per\ month\r\n\ \r\n\ @return\ The\ average\ price\ per\ month\r\n
+comment3.params=avgBill\ avgPrice
+comment3.target=double\ calcElectricityCO2(double,\ double)
+comment3.text=\r\n\ This\ method\ calculates\ the\ emissions\ created\ by\ using\ electricity\r\n\ \r\n\ @param\ Double\ avgBill\ The\ average\ bill\ for\ each\ month\r\n\ @param\ Double\ avgPrice\ The\ average\ price\ for\ each\ month\r\n\ \r\n\ @return\ The\ emissions\ in\ Tons\r\n
+numComments=4

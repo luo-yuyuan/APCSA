@@ -1,0 +1,3 @@
+I did not have many problems writing this program. I appriciated having the partially completed program,
+since I only then had to practice my ability to use ArrayLists. I also made sure to continue using Javadoc
+comments, so that I can get used to adding them into all of my programs. 

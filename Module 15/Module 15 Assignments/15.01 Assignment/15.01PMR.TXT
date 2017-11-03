@@ -1,0 +1,3 @@
+I did not have any problems writing this program, and I find the idea of abstract classes very interesting.
+The only thing I do not fully understand is the purpose of abstract methods, since they have to be fully
+defined in the classes which extend the abstract class. 

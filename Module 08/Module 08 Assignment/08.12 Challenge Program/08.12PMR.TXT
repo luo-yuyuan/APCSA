@@ -1,0 +1,5 @@
+I had some trouble with creating this program. This trouble was organizational in nature, because I took my methods from
+previous programs. I pasted them in a fairly random order (the order in which I opened the previous programs), and I found 
+some of the method headers and variable to be inconsistant or confusing. I had to rewrite some of my old code to get it
+to work in this new program, which shows it was not very robust. In the future I will either keep each class seperate when 
+I borrow it, or pay more attention to where I am getting each method and how I organize them.

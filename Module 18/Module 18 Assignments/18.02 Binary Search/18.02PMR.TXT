@@ -1,0 +1,2 @@
+I did not have any problems with this program. I wa able to reuse a lot of code, outside of the binary search algorithm,
+so this was very quick. I look forward to seeing what the Challenge Program has in store.

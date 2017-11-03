@@ -1,0 +1,5 @@
+I found this program to be very interesting to create. I am not used to the style of method calling used in 
+Java, so this was a learning experience for me. I was confused at first, but eventually found my way.
+I am not sure I completed the program to the fullest extent, since I only used .replaceAll. However,
+I don't see why it would be done differently. I am excited to learn more methods that I can use in my 
+code.

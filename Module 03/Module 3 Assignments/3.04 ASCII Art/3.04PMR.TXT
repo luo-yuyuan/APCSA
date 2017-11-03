@@ -1,0 +1,3 @@
+I found this program to be simple to create. The task of creating ASCII art was unique, but admittadly challenging.
+I think this program helped me to practice my escape sequences, mainly the ones I did not know, such as \\. I hope 
+to use the other sequences more in other programs.

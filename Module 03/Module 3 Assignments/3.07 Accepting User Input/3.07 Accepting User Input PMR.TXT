@@ -1,0 +1,3 @@
+I found redoing these programs to be a great way to learn how to use the scanner classes, and to increase their functionality.
+I did not have a lot of trouble with these programs, but feel that I would struggle to use the Scanner class without a reference, such as the API or the other progams.
+I hope to increase my familiarity with the Scanner class in the coming programs to fix this issue.

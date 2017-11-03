@@ -1,0 +1,3 @@
+I did not have much trouble making this program. Outside of misreading the directions,
+and trying to use compareTo() on the products ArrayList, I had an easy time bringing 
+together the knowledge of this module into this program. I'm looking forward to what is up next!

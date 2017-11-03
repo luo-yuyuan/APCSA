@@ -1,0 +1,4 @@
+I had a few problems with this program, but nothing major happened that set me back for a long period of time.
+The only real challenge was keeping everything organized. When the code gets too long, I start to feel
+cluttered and it becomes harder for me to program. In the future, I may have to look into splitting my code into
+more classes.

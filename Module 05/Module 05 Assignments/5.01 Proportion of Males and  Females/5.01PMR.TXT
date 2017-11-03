@@ -1,0 +1,3 @@
+I based this program off of the provided 5.01 Coin Flips project, so I didn't have any problems with it.
+I think a for loop makes more sense for this problem, but that doesn't really matter.
+I look forward to using loops on my own in the up coming assignments.

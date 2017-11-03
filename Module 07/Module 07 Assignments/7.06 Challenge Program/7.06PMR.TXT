@@ -1,0 +1,2 @@
+I found this program to be faily easy. This only thing I am confused about is the use of an array,
+because I feel there is not enough data to warrant the use of an array.

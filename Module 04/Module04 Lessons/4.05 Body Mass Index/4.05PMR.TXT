@@ -1,0 +1,4 @@
+This program was great practice in using the If-else-if statement in Java.
+I did not have any problems in the making of this program.
+I can see that the expected output truncates the decimal at the tenths place, but I am not aware how to do this. 
+I'm not sure if I missed an instruction earier, and if I haven't, I hope it is covered soon.

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=s1\ s2
+comment0.target=ShapesV9a(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ ojbects\ of\ type\ ShapesV9\r\n\ @param\ s1\ side\ 1\ of\ a\ triangle\r\n\ @param\ s2\ side\ 2\ of\ a\ triangle\r\n
+comment1.params=
+comment1.target=void\ calcTriArea()
+comment1.text=\r\n\ Mutator\ method\ to\ calculate\ the\ area\ of\ a\ triangle\ (no\ paramters).\ \r\n
+comment2.params=
+comment2.target=double\ getTriArea()
+comment2.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ the\ area\ of\ a\ triangle\ (no\ paramters).\r\n\ @return\ the\ area\ of\ a\ triangle.\r\n
+comment3.params=
+comment3.target=void\ calcHypoteneuse()
+comment3.text=\ \r\n\ Mutator\ method\ to\ calculate\ the\ hypoteneuse\ of\ a\ triangle\ (no\ paramters).\r\n
+comment4.params=
+comment4.target=double\ getHypoteneuse()
+comment4.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ the\ hypoteneuse\ of\ a\ triangle\ (no\ paramters).\r\n\ @return\ the\ hypotenenuse\ of\ a\ triagnle.\r\n
+comment5.params=
+comment5.target=int\ getSide1()
+comment5.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ side\ 1\ of\ a\ triangle\ (no\ paramters).\r\n\ @return\ side\ 1\ of\ a\ triangle.\r\n
+comment6.params=
+comment6.target=int\ getSide2()
+comment6.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ side\ 2\ of\ a\ triangle\ (no\ paramters).\r\n\ @return\ side\ 2\ of\ a\ triangle.\r\n
+numComments=7

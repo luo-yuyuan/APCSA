@@ -1,0 +1,5 @@
+I actually has a fairly hard time with this program. For one, I spent a very long time trying to figure out how
+to apply each method to each object. Eventually I found my solution to be copying the array into the class definition,
+and referencing that new array, but I feel like there is a better solution. What I mean is I expected to be able to
+say "fillUps.method", and have access to each element of fillUps in that method, but this was not the case. However,
+once I came to this solution the program was fairly simple, and similar to many program we have done in the past.

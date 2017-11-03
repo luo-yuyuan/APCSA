@@ -1,0 +1,5 @@
+I did not have any challenges with this program, but I found it to be good practice for using arrays and 
+for formatting data.
+Some of my values are .1 less than those in the example table. I am not sure why this is, but I assume it
+is a small rounding error.
+

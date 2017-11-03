@@ -1,0 +1,3 @@
+I enjoyed completing this assignment, and that we are beginning to branch into more complicated coding projects.
+I had no problems completeing this assignment.
+One question I have is how to account for trying to parse out an incorrect data type using if statements.

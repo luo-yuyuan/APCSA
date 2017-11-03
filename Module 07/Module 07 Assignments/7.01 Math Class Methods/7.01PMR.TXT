@@ -1,0 +1,5 @@
+The biggest problem I had in this program was with the fact that the values slowly drifted away from 
+their actual values (7.0 vs 7.00000000000000001), causing inaccuracy in the program, and the lack of zero being using.
+For this reason I decided to use ints and convert it into a double every time, leading to more valid 
+values.
+Besides this problem, I did not have other difficulties.

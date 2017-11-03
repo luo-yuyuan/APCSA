@@ -1,0 +1,3 @@
+I did not have a hard time with this program. I did not feel that the Javadocs would be too helpful in this program,
+since it is so small in terms of code, I can definitely see how it can help in future, larger programs that will be written.
+I find the idea of the Javadocs to be very smart, and I think it alone makes Java a much more user friendly program than most.

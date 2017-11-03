@@ -1,0 +1,7 @@
+I actually had a very hard time with this program, but because of that I learned a lot. Firstly, I 
+could not get anything to print into the file. After a long time of debugging and reading over the 
+lecture notes, I realized that I forgot to close my files. After fixing this, my code ran almost perfectly,
+and I finished in about 10 minutes. 
+
+In the future I will make sure to include all parts of my code before attempting to debug, in case
+any vital pieces are missing.

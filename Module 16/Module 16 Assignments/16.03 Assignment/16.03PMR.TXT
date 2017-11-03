@@ -1,0 +1,2 @@
+I did not have many difficulties making this program. There were a few times I mixed up some variables,
+but that is only because there is a lot to keep track of.

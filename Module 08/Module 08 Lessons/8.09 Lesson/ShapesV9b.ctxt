@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ShapesV9b()
+comment0.text=\r\n\ Default\ constructor\ for\ ojbects\ of\ type\ ShapesV9\r\n
+comment1.params=s1\ s2
+comment1.target=double\ calcTriArea(int,\ int)
+comment1.text=\r\n\ Accessor\ method\ to\ calculate\ and\ return\ the\ area\ of\ a\ triangle.\ \r\n\ @param\ s1\ side\ 1\ of\ a\ triangle.\r\n\ @param\ s2\ side\ 2\ of\ a\ triangle,\r\n\ @return\ the\ area\ of\ a\ triangle.\r\n
+comment2.params=s1\ s2
+comment2.target=double\ calcHypoteneuse(int,\ int)
+comment2.text=\ \r\n\ Accessor\ method\ to\ calculate\ and\ return\ the\ hypoteneuse\ of\ a\ triangle.\r\n\ @param\ s1\ side\ 1\ of\ a\ triangle.\r\n\ @param\ s2\ side\ 2\ of\ a\ triangle,\r\n\ @return\ the\ hypoteneuse\ of\ a\ triangle.\r\n
+numComments=3

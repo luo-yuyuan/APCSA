@@ -1,0 +1,4 @@
+I found this program to be easy and had no trouble completing it.
+It was nice to have a template to go off of, 
+since I only had to use my new knowledge and not make statements that were taught in Mod 1.
+These new methods should be very useful, since comparing strings is common in many programs, and I hope I can start to memorize them soon.

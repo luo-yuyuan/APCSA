@@ -1,0 +1,5 @@
+PMR:
+    I found this program to be very simple yet fun to work on. I had no issues in creating this program. 
+    The only piece I may have done differently is to declare variables multiple times with different names
+    as to not need to rewrite variables for subsequent conversions. I personally would have done the equations
+    in the print statement to save space, but the example did not do this and I followed it's structure.

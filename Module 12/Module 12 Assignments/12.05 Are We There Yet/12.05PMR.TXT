@@ -1,0 +1,5 @@
+I found this program to be somewhat challenging. Part of my challenges came from the fact I have not used
+the scanner in a while, and I had to reaquaint myself with it. The actual recursion step was not very difficult,
+but I did have to add a second base case. 
+
+Luke Edelbluth's brother had to wash 13 cows.

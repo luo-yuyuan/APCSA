@@ -1,0 +1,4 @@
+I had a lot of trouble with this program. I spent a lot of confused because I had followed the instructions
+in the notes and gotten nowhere. But, I changed the method in which I compared the Strings and I was able to get it to
+work after a while. I am happy I was able to learn from this at the start of the module, so that I won't make the
+same mistake later on.

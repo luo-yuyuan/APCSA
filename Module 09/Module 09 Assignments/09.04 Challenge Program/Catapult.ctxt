@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s\ a
+comment0.target=Catapult(int,\ int)
+comment0.text=\r\n\ Default\ constructor\ for\ Catapult\ objects.\r\n\ \r\n\ @param\ int\ s\ The\ number\ of\ speeds\ for\ the\ table\r\n\ @param\ int\ a\ The\ number\ of\ angles\ for\ the\ table\r\n
+comment1.params=
+comment1.target=double[][]\ fillArray()
+comment1.text=\r\n\ Fills\ the\ array\ with\ distances\ based\ on\ the\ equation\ in\ 9.04\ Virtual\ Lecture\ Notes\ Part\ 1\r\n\ \r\n\ @return\ Returns\ a\ two-dimensional\ array\ of\ doubles\ with\ each\ element\ being\ the\ distance\ traveled.\ First\ dimension\ is\ angles,\ second\ dimension\ is\ speeds.\r\n
+numComments=2

@@ -1,0 +1,3 @@
+I had no problems making this program. I did appriciate how most of the program was done already, and I
+could focus on only the parts that are related to the lesson. I think ArrayLists are very powerful tools,
+and I wish I had them when I wrote some of my past programs!

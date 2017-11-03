@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CarV3_3()
+comment1.params=sMiles\ eMiles
+comment1.target=int\ calcDistance(int,\ int)
+comment2.params=dist\ gals
+comment2.target=double\ calcMPG(int,\ double)
+comment3.params=type\ sMiles\ eMiles\ dist\ gals\ MPG
+comment3.target=void\ printData(java.lang.String,\ int,\ int,\ int,\ double,\ double)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=length
+comment0.target=double[]\ readGravityFile(int)
+comment1.params=g\ userWeight
+comment1.target=double[]\ calculateWeights(double[],\ double)
+comment2.params=n\ g\ w
+comment2.target=void\ print(java.lang.String[],\ double[],\ double[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

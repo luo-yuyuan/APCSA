@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=gas
+comment0.target=CO2FootprintV1(double)
+comment0.text=\r\n\ Default\ constructor\ for\ CO2FootprintV1\ Objects\r\n
+comment1.params=
+comment1.target=void\ calcTonsCO2()
+comment1.text=\r\n\ Method\ used\ to\ calculate\ the\ amount\ of\ CO2\ made\ in\ Tons\r\n
+comment2.params=
+comment2.target=void\ calcPoundsCO2()
+comment2.text=\r\n\ Method\ used\ to\ calculate\ the\ amount\ of\ CO2\ in\ Tons\ into\ pounds\r\n
+comment3.params=
+comment3.target=double\ getTonsCO2()
+comment3.text=\r\n\ Method\ used\ to\ return\ the\ amount\ of\ CO2\ in\ tons\r\n\ @return\ CO2\ in\ Tons\r\n
+comment4.params=
+comment4.target=double\ getPoundsCO2()
+comment4.text=\r\n\ Method\ used\ to\ return\ the\ amount\ of\ CO2\ in\ Pounds\r\n\ @return\ CO2\ in\ Pounds\r\n
+comment5.params=
+comment5.target=void\ print()
+comment5.text=\r\n\ Method\ used\ to\ print\ the\ gas\ entered,\ CO2\ in\ Pounds,\ and\ the\ CO2\ in\ Tons\ to\ the\ user.\r\n
+numComments=6

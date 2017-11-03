@@ -1,0 +1,4 @@
+I did not have any problems making this program. The only thing I am confused on, is
+what the constructor is for. I do not understand the type of information that will 
+go inside of it and how we will use it, but I assume this topic will come up in future programs
+and lessons, and by then it should make sense.

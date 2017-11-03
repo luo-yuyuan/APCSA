@@ -1,0 +1,3 @@
+I found this program program confusing at first, but after going through the lesson explanation again I understood
+what I needed to do. Besides that, I did not have any real problems writing this program. I had never thought
+of overwriting methods of the Object class before. Very interesting!

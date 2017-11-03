@@ -1,0 +1,6 @@
+I found this program to be very fun to make, because it incorporated so many different elements.
+The only problem I had is, there is not place I can see a for-each loop being useful. They are not 
+used for variable assignment, and for printing I found being able to call the specific array location 
+for multiple arrays of different data types at once to be the best solution, which I do not believe
+works with a for-each loop.
+I hope that I can find more ways to use a for-each loop in the future, so that my programs are better coded.

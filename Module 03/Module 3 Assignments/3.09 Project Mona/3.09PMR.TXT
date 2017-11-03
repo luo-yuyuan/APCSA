@@ -1,0 +1,4 @@
+I found this program to be fairly challenging, and it forced be to rethink different problems multiple times.
+I also learned a lot about the best ways to use differnt methods, mainly the scanner methods, through this program.
+I did get stuck for a while on the email, but this was because I didn't realize the first and last names of the users were two seperate strings.
+I have there are more programs like this in the future, because I feel these types of programs help me best to prepare for the AP Exam.

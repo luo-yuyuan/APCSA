@@ -1,0 +1,3 @@
+I found this program to not be very difficult, but also fun.
+I had to look back at old programs to create my first generator variable, but after that I was fine.
+I hope that I will begin to memorize these new methods as I coninue along in the course.

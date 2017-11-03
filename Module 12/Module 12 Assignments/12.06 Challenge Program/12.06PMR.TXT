@@ -1,0 +1,4 @@
+I had a lot of fun making this program. It was interesting to think of this problem in a recursive manner.
+As I looked at the solution given in the problem description, I realized that the way I would have
+solved it on my own is recursive, even though I wouldn't have thought of it that way. I feel that I need to review
+the scanner class a bit, but the API is so helpful I'm not sure it is needed. I am excited to continue with recursion.

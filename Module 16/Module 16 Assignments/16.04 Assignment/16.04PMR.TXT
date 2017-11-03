@@ -1,0 +1,2 @@
+I had some challenges with this program. I had some trouble working with the Arraylists
+in terms of finding how to search for the name. However, besides that, I didn't have many problems.

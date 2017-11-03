@@ -1,0 +1,3 @@
+I enjoyed writing this program. I think the comparable<T> interface is very useful, and I liked the challenge of 
+trying to print all the different comparisons, but never printing the same comparison more than once. I'm exctited
+to use comparable<T> in the future.

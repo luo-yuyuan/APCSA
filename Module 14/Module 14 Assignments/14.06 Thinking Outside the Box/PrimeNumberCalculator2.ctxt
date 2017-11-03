@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=upperLimit
+comment0.target=PrimeNumberCalculator2(int)
+comment1.params=n
+comment1.target=boolean\ isPrime(int)
+comment2.params=
+comment2.target=java.util.ArrayList\ calculatePrimes()
+comment3.params=primes
+comment3.target=void\ printPrimes(java.util.ArrayList)
+comment4.params=
+comment4.target=void\ calculateAndPrintPrimes()
+numComments=5

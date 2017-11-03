@@ -1,0 +1,5 @@
+I actually had a fair bit of trouble with this program. I was confused on how/why to use
+a for loop for this program, since I assumed constantly using the random function would result in different 
+results for each run. However, after I followed the example I found I was wrong. 
+In the future, I would try to use provided materials more for difficult problems, but also analyze the most logical way 
+to use a specific method such as a for loop for a longer amount of time.

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=d\ c\ a
+comment0.target=void\ sellProduct(Dispenser,\ CashRegister,\ int)
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

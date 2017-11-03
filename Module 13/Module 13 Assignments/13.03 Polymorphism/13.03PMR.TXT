@@ -1,0 +1,3 @@
+I found this program confusing at first. After looking back at the instructions, it was very clear what I had to do
+to make the program. I appriciated the use of ArrayLists, because I found myself not remembering how to use them,
+so the review was definitely helpful.

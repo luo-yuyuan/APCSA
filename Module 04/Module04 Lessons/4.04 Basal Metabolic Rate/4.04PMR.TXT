@@ -1,0 +1,3 @@
+I found this assignment to be interesting and more of a challenge than previous assignments.
+I personally wouldn't have used booleans in this assignments, so needing to do the problem differently is making me think in new ways.
+I didn't have many problems with this assignment, except for assigning the gender to a bool.

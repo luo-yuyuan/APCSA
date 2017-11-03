@@ -1,0 +1,6 @@
+I did not have any real problems making this program. I did have some formatting
+confusion with printing the outputs, but besides that I never got stuck. The 
+only thing I would have wanted to change is the use of three different printing 
+methods - one for each car. I did this since each car name has a different length,
+so the spacing is different for every car, but I would have like to have had only one 
+print method. I am excited to continue using objects in Java!

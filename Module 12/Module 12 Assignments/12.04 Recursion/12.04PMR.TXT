@@ -1,0 +1,3 @@
+I found this program to be simple, but fun, to make. I find recursion fasinating, and I try to use it when I think
+it makes sense to. I hope we learn more about cases where recursion can be used, so that I may
+apply it to more of my future programs.

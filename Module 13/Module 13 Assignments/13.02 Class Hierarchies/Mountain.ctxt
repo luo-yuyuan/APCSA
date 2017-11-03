@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=l\ w\ m
+comment0.target=Mountain(int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getMyMountains()
+comment2.params=
+comment2.target=java.lang.String\ printMountains()
+numComments=3

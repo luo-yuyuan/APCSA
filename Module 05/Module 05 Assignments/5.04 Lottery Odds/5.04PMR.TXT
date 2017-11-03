@@ -1,0 +1,5 @@
+I found this program to be difficult at first, but once I began it was not too difficult.
+The hardest part was using the for loops to create strings from the numbers,
+but I tried the method I used and it worked.
+Besides this, the program was fairly simple.
+I hope to have more programs like this in the future, because I feel they are more enjoyable.

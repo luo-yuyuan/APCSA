@@ -1,0 +1,3 @@
+I found this assignment to be more challenging than most, but not overly difficult.
+If I did not have the earlier example of how to read data files, it would have been much, much harder.
+I was stuck for a few minutes because I missed a piece of code, but overall I did not have much trouble.
